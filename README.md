@@ -1,2 +1,2 @@
-# ai-on-jetson-nano-train-the-trainer
-Lab Materials for AI on Jetson Nano in the Train the trainer project.
+# AI on Jetson Nano
+This repository contains all of the code labs for AI on Jetson Nano.
